@@ -2,6 +2,9 @@
 
 This is a task management application that allows users to register, log in, manage tasks, set reminders, and tag other users. It includes functionalities for task creation, editing, deletion, completion status management, filtering tasks, and sending email notifications.
 ![image](https://github.com/user-attachments/assets/d3ebd2a8-b827-4ca7-bdb7-98d37da242a5)
+![image](https://github.com/user-attachments/assets/3e572887-1755-4827-9f27-aefd9f1eb370)
+![image](https://github.com/user-attachments/assets/f5bbf2b6-a417-4900-ba85-48349c320503)
+
 
 ## Features
 
